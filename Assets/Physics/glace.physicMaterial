@@ -6,9 +6,9 @@ PhysicMaterial:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: boule
-  dynamicFriction: 100
-  staticFriction: 1000
+  m_Name: glace
+  dynamicFriction: 4.71
+  staticFriction: 0.6
   bounciness: 0
   frictionCombine: 3
   bounceCombine: 0
